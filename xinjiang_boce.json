@@ -1,11 +1,11 @@
 {
   "serverUri":"https://222.85.91.56:54312/Boce"
   ,"socketproxy":[
-    {"proxyip":"36.7.172.12", "proxyport":1080 }
-    ,{"proxyip":"60.30.73.244", "proxyport":1080 }
-    ,{"proxyip":"101.200.35.103", "proxyport":1080 }
-    ,{"proxyip":"121.42.141.3", "proxyport":1080 }
+    {"proxyip":"101.200.35.103", "proxyport":1080 }
     ,{"proxyip":"218.24.45.194", "proxyport":1080 }
+    ,{"proxyip":"60.30.73.244", "proxyport":1080 }
+    ,{"proxyip":"121.42.141.3", "proxyport":1080 }
+    ,{"proxyip":"36.7.172.12", "proxyport":1080 }
   ]
 }
 
