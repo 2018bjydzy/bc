@@ -3,8 +3,8 @@
   ,"socketproxy":[
     {"proxyip":"101.200.35.103", "proxyport":1080 }
     ,{"proxyip":"218.64.122.99", "proxyport":7302 }
-    ,{"proxyip":"60.28.246.113", "proxyport":1080 }
     ,{"proxyip":"223.241.214.44", "proxyport":1217 }
+    ,{"proxyip":"60.28.246.113", "proxyport":1080 }
   ]
 }
 
