@@ -1,9 +1,9 @@
 {
   "serverUri":"https://202.100.151.98:8443/Boce"
   ,"socketproxy":[
-    {"proxyip":"218.64.122.99", "proxyport":7302 }
+    {"proxyip":"101.200.35.103", "proxyport":1080 }
+    ,{"proxyip":"218.64.122.99", "proxyport":7302 }
     ,{"proxyip":"223.241.214.44", "proxyport":1217 }
-    ,{"proxyip":"101.200.35.103", "proxyport":1080 }
   ]
 }
 
