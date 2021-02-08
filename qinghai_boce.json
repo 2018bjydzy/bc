@@ -1,36 +1,36 @@
 {
   "serverUri":"https://202.100.151.98:8443/Boce"
   ,"socketproxy":[
-    {"proxyip":"181.129.62.67", "proxyport":40729 }
-    ,{"proxyip":"207.97.174.134", "proxyport":1080 }
-    ,{"proxyip":"125.78.217.239", "proxyport":4216 }
-    ,{"proxyip":"59.60.122.156", "proxyport":4216 }
-    ,{"proxyip":"220.248.188.75", "proxyport":17211 }
-    ,{"proxyip":"88.198.50.103", "proxyport":1080 }
-    ,{"proxyip":"222.99.47.68", "proxyport":8888 }
-    ,{"proxyip":"59.60.224.133", "proxyport":4216 }
-    ,{"proxyip":"140.237.31.238", "proxyport":4216 }
-    ,{"proxyip":"98.185.94.76", "proxyport":4145 }
-    ,{"proxyip":"119.187.146.163", "proxyport":1080 }
-    ,{"proxyip":"192.252.209.155", "proxyport":14455 }
-    ,{"proxyip":"219.147.112.150", "proxyport":1080 }
-    ,{"proxyip":"66.135.227.181", "proxyport":4145 }
-    ,{"proxyip":"72.195.114.184", "proxyport":4145 }
-    ,{"proxyip":"79.106.14.13", "proxyport":4145 }
-    ,{"proxyip":"202.104.185.228", "proxyport":4216 }
-    ,{"proxyip":"188.166.125.121", "proxyport":1080 }
-    ,{"proxyip":"109.193.195.2", "proxyport":1080 }
-    ,{"proxyip":"184.178.172.13", "proxyport":15311 }
-    ,{"proxyip":"88.198.24.108", "proxyport":1080 }
+    {"proxyip":"109.193.195.2", "proxyport":1080 }
     ,{"proxyip":"198.8.94.170", "proxyport":4145 }
-    ,{"proxyip":"72.210.252.137", "proxyport":4145 }
-    ,{"proxyip":"118.172.201.49", "proxyport":38142 }
-    ,{"proxyip":"95.216.17.77", "proxyport":18700 }
-    ,{"proxyip":"1.53.137.164", "proxyport":4145 }
-    ,{"proxyip":"77.83.86.123", "proxyport":8085 }
+    ,{"proxyip":"202.104.185.228", "proxyport":4216 }
     ,{"proxyip":"66.135.227.181", "proxyport":4145 }
+    ,{"proxyip":"181.129.62.67", "proxyport":40729 }
+    ,{"proxyip":"184.178.172.13", "proxyport":15311 }
+    ,{"proxyip":"188.166.125.121", "proxyport":1080 }
+    ,{"proxyip":"88.198.24.108", "proxyport":1080 }
+    ,{"proxyip":"77.83.86.123", "proxyport":8085 }
+    ,{"proxyip":"72.210.252.137", "proxyport":4145 }
     ,{"proxyip":"113.133.170.196", "proxyport":1080 }
+    ,{"proxyip":"95.216.17.77", "proxyport":18700 }
+    ,{"proxyip":"219.147.112.150", "proxyport":1080 }
+    ,{"proxyip":"140.237.31.238", "proxyport":4216 }
+    ,{"proxyip":"119.187.146.163", "proxyport":1080 }
+    ,{"proxyip":"98.185.94.76", "proxyport":4145 }
     ,{"proxyip":"72.212.63.101", "proxyport":4145 }
+    ,{"proxyip":"66.135.227.181", "proxyport":4145 }
+    ,{"proxyip":"59.60.224.133", "proxyport":4216 }
+    ,{"proxyip":"1.53.137.164", "proxyport":4145 }
+    ,{"proxyip":"118.172.201.49", "proxyport":38142 }
+    ,{"proxyip":"207.97.174.134", "proxyport":1080 }
+    ,{"proxyip":"220.248.188.75", "proxyport":17211 }
+    ,{"proxyip":"59.60.122.156", "proxyport":4216 }
+    ,{"proxyip":"88.198.50.103", "proxyport":1080 }
+    ,{"proxyip":"79.106.14.13", "proxyport":4145 }
+    ,{"proxyip":"72.195.114.184", "proxyport":4145 }
+    ,{"proxyip":"125.78.217.239", "proxyport":4216 }
+    ,{"proxyip":"192.252.209.155", "proxyport":14455 }
+    ,{"proxyip":"222.99.47.68", "proxyport":8888 }
   ]
 }
 
